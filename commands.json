@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "commands": [
     "clear A8",
     "clear B3"
   ]
 }
+=======
+  "commands": []
+}
+>>>>>>> 693b2f6b8be67302357e98e80b14f15c50231cf8
